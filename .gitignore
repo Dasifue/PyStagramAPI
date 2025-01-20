@@ -40,7 +40,6 @@ db.sqlite3
 *.sqlite3-wal
 
 # Django migrations
-*/migrations/*
 
 # Django media
 media/
